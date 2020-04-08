@@ -1,5 +1,5 @@
 // Learn By Implementation
-// JS map Implementation
+// JS map (Map) Implementation
 // Author: Devv_Li
 // Twitter: @Devv_Li
 // Date: feb/3/2020
